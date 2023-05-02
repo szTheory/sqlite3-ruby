@@ -8,7 +8,7 @@
   # $ sha256sum ports/archives/sqlite-autoconf-3410200.tar.gz
   # e98c100dd1da4e30fa460761dab7c0b91a50b785e167f8c57acc46514fae9499  ports/archives/sqlite-autoconf-3410200.tar.gz
   #
-  :version: "3.41.2"
+  :version: "3.42.0.beta"
   :files:
-    - :url: "https://sqlite.org/2023/sqlite-autoconf-3410200.tar.gz"
-      :sha256: "e98c100dd1da4e30fa460761dab7c0b91a50b785e167f8c57acc46514fae9499"
+    - :url: "https://sqlite.org/snapshot/sqlite-snapshot-202305021634.tar.gz"
+#      :sha256: "TBD"
